@@ -135,7 +135,7 @@ points(x, fitted(probit.fit), col = 2)
 legend("bottomright", legend = c("logit link", "probit link"), col = c(4, 2), lwd = 2, pch = 1)
 ```
 
-Note that the deviances or the AIC values are almost same in this example.
+Note that in this example the deviances or the AIC values are almost same for the logit link and the probit link.
 
 ## (03/11/20) Model Selection and Residuals
 
